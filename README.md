@@ -1,4 +1,4 @@
-# Chat-with-PDF-Using-open-source-tools
+# Chat-with-text_files-Using-open-source-tools
 
 In this notebook, I demonstrate how to interact with your files using open-source tools. I developed this notebook on Kaggle, and to execute the code, you should enable the GPU function.
 
